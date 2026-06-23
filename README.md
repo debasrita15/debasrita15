@@ -1,49 +1,47 @@
 # 👋 Hi, I'm Debasrita Das
 
 🚀 **Android Developer | Kotlin | Jetpack Compose | AI-Driven Apps**
+💡 Passionate about building apps that combine **AI + mobile + real-world impact**
 
 I build **modern, scalable Android applications** with clean architecture and intuitive user experiences.
-Focused on creating apps that solve **real-world problems** using **mobile + AI + backend integration**.
+Focused on solving **real-world problems** through **mobile + AI + backend integration**.
 
 ---
 
 ## 💡 What I Do
 
-*  Develop Android apps using **Kotlin & Jetpack Compose**
-*  Integrate **AI APIs** into mobile applications
-*  Build full-stack features with **Supabase & REST APIs**
-*  Follow **MVVM & Clean Architecture** for scalable code
-*  Optimize performance for smooth, production-ready apps
+• Develop Android apps using **Kotlin & Jetpack Compose**
+• Integrate **AI APIs** into mobile applications
+• Build full-stack features with **Supabase & REST APIs**
+• Follow **MVVM & Clean Architecture** for scalable systems
+• Optimize apps for **performance, reliability, and production readiness**
 
 ---
 
 ## 🚀 Current Focus
 
-* Advanced Android Architecture (**MVVM, Clean Architecture**)
-* AI-powered mobile features
-* Backend integration (Supabase, APIs)
-* Building **real-world, production-level apps**
+• Advanced Android Architecture (**MVVM, Clean Architecture**)
+• AI-powered mobile experiences
+• Backend systems (**Supabase, APIs**)
+• Building **real-world, production-level applications**
 
 ---
 
 ## 🤝 Open To
 
-* Collaborating on **Android / AI-based projects**
-* Contributing to impactful real-world applications
-* Internship & learning opportunities in mobile development
+• Collaborating on **Android / AI-driven projects**
+• Contributing to impactful real-world applications
+• Internship opportunities in **mobile development**
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: **@debasrita15**
-* LinkedIn: https://www.linkedin.com/in/debasritadas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/debasritadas)
 
 ---
 
 ## 🛠 Tech Stack
-
-### 📱 Android
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=android\&logoColor=white)
@@ -51,25 +49,14 @@ Focused on creating apps that solve **real-world problems** using **mobile + AI 
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge)
 ![ViewModel](https://img.shields.io/badge/ViewModel-3DDC84?style=for-the-badge)
 ![DataStore](https://img.shields.io/badge/DataStore-000000?style=for-the-badge)
-
-### 🌐 Backend & Web
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-### 💻 Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### ☁️ Tools & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
