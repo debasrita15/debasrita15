@@ -13,14 +13,6 @@ Focused on solving **real-world problems** through **mobile + AI + backend integ
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **AI Chat App** – Android app with real-time AI responses  
-🔹 **Task Manager App** – Built with MVVM + offline-first architecture  
-🔹 **Backend API System** – Node.js + Supabase integration  
-
----
-
 ## 💡 What I Do
 
 • Build modern Android apps using **Kotlin & Jetpack Compose**  
@@ -95,7 +87,9 @@ Focused on solving **real-world problems** through **mobile + AI + backend integ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasrita15&theme=radical" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debasrita15&layout=compact&theme=radical&hide=jupyter%20notebook)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasrita15&layout=compact&theme=radical&hide=jupyter%20notebook" />
+</p>
 
 ---
 
