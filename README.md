@@ -95,10 +95,9 @@ I enjoy turning complex ideas into simple, clean, and user-friendly mobile appli
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debarita15&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debasrita15&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debarita15&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debasrita15&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debarita15&layout=compact&theme=radical&hide=jupyter%20notebook)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debasritadas&layout=compact&theme=radical&hide=jupyter%20notebook)
 ---
